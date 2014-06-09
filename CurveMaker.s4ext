@@ -38,7 +38,7 @@ status
 CurveMaker is a simple scripted module to generate a 3D curve from a fiducial list. Curves between fiducial points are interpolated by vtkSplineFilter. The curve is dynamically updated as the fiducial list is modified (moved/added/deleted). The module is useful to draw lines in the 3D space, or visualize tracked catheters.
 
 # Space separated list of urls
-screenshoturls http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/CurveMaker
+screenshoturls http://www.slicer.org/slicerWiki/images/0/0b/Slicer4-CurveMaker-GUI.png
 
 # 0 or 1: Define if the extension should be enabled after its installation.
 enabled 1
